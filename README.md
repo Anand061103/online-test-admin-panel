@@ -1,3 +1,4 @@
 # online-test-admin-panel
 This is a admin panel of online test website.
-Authwe - Anand Kushwaha.
+<br>
+Author - Anand Kushwaha.
